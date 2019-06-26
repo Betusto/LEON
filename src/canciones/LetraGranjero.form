@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="true"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" pref="217" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" min="-2" pref="300" max="-2" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="SansSerif" size="18" style="0"/>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="TextArea">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI Semibold" size="14" style="0"/>
+            </Property>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="El granjero en,&#xa;La ca&#xf1;ada est&#xe1;,&#xa;Ey, que alegr&#xed;a,&#xa;En la ca&#xf1;ada &#xe9;l est&#xe1;.&#xa;&#xa;El granjero a una,&#xa;Novia est&#xe1; llevando,&#xa;Ey, que alegr&#xed;a,&#xa;A una novia est&#xe1; llevando.&#xa;&#xa;La novia toma un chico,&#xa;La novia toma un chico,&#xa;Ey, que alegr&#xed;a,&#xa;Que la novia toma un ni&#xf1;o.&#xa;&#xa;El ni&#xf1;o ahora lleva,&#xa;una enfermera,&#xa;Ey, que alegr&#xed;a,&#xa;El ni&#xf1;o lleva una enfermera.&#xa;&#xa;La enfermera lleva,&#xa;Una linda vaca,&#xa;Ey, que alegr&#xed;a,&#xa;Lleva una linda vaca.&#xa;&#xa;La vaca lleva un perro,&#xa;La vaca lleva un perro, &#xa;Ey, que alegr&#xed;a,&#xa;Que la vaca lleva un perro.&#xa;&#xa;El perro lleva un gato, &#xa;El perro lleva un gato, &#xa;Ey, que alegr&#xed;a,&#xa;Que el perro lleva al gato.&#xa;&#xa;El gato ahora lleva,&#xa;Una peque&#xf1;a rata,&#xa;Ey, que alegr&#xed;a,&#xa;El gato lleva una rata.&#xa;&#xa;La rata lleva el queso,&#xa;La rata lleva el queso,&#xa;Ey, que alegr&#xed;a,&#xa;Que la rata lleva el queso.&#xa;&#xa;El queso ahora est&#xe1; solo,&#xa;Se queda el queso solo,&#xa;Ey, que alegr&#xed;a,&#xa;El queso ahora se queda solo."/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="0" width="190" height="290"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
