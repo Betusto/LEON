@@ -17,7 +17,7 @@ Lenguaje usado: Java.
 <b>*Desarrollador, administrador e investigador:<br /></b>
 Alberto Villarreal Canales (Betusto)<br />
 <ul>
-<li>Correo: alberto_villarreal99@hotmail.com</li>
+<li>Correo: alberto.villarreal.canales@gmail.com</li>
 <li>Célular: 8117205175</li>
 </ul>
 <b>*Investigadores:<br /></b>
